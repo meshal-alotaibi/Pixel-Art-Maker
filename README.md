@@ -1,2 +1,2 @@
 # Pixel-Art-Maker
- this game about color cell is project from Udacity 
+ this game about color cell, using the java script. the project from Udacity .
